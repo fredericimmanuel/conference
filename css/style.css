@@ -1660,3 +1660,16 @@ body.mobile-nav-active #mobile-nav-toggle {
     margin-top: 10px;
   }
 }
+
+@media (max-width: 500px){
+  #resfont {
+    font-size: xx-small;
+  }
+}
+
+@media (max-width: 500px){
+  #resfont1 {
+    font-size: x-small;
+  }
+}
+
