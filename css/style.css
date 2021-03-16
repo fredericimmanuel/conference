@@ -1663,7 +1663,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 @media (max-width: 500px){
   #resfont {
-    font-size: xx-small;
+    font-size: x-small;
   }
 }
 
